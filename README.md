@@ -30,7 +30,7 @@ Run the following commands one by one in your terminal:
 ```bash
 pkg update && pkg upgrade -y
 pkg install git python -y
-git clone [https://github.com/YOUR-USERNAME/mailzorph.git](https://github.com/YOUR-USERNAME/mailzorph.git)
+git clone https://github.com/ahmadzorph/mailzorph.git
 cd mailzorph
 pip install rich requests colorama dnspython
 python main.py
